@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+A separate repository for the archival and development of whyWatchOS 1-9, an open source remake of watchOS 1 to 9. Part of the WacOS operating system project.
